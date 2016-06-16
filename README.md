@@ -1,2 +1,6 @@
-# Space Bar
-Space Bar is an Arkonid Game made with Unity 5
+#Space Bar
+
+## Live Link to play the Space Bar Game:
+   
+
+## Overview and Motivation
