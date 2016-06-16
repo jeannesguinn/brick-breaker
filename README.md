@@ -1,2 +1,6 @@
-# brick-breaker
-Brick Breaking Game made with Unity 5
+#Space Bar
+
+## Live Link to play the Space Bar Game:
+   
+
+## Overview and Motivation
