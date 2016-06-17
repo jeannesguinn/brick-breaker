@@ -8,6 +8,9 @@ http://gamebucket.io/game/6fe8ee4e-c105-4954-b51f-ae39a00ee583
       The Space Bar Game is a 2D game created in Unity 5. This game is a basic block breaking game, modeled after the Arkanoid games, popular in the late 1980's. My main motivation in creating this game was to attempt creating a game in a language I had never programmed in, on a platform I had never utilized, creating something I had never attempted to create before (a video game). I wanted to take on the challenge of utilizing all of these skillsets. Furthermore, I wanted to complete this challenge, in a 5-day time frame.
 
 
+## Game Levels and Challenges Introduced
+     
+
 ## Technologies Used
 
 ### Unity 5 -
