@@ -31,10 +31,17 @@ The Space Bar Game is a 2D game created in Unity 5. This game is a basic block b
 
 ## Adobe Photoshop CC - 
 
-    Image editing software by Adobe.
+    Adobe Photoshop is a raster graphics editor developed and published by Adobe Systems for Windows and OS X. Photoshop was created in 1988 by Thomas and John Knoll.
 
 
 ## Challenges
+
+      One of the major challenges of this project was our time constraint. The timeline for this project from start to finish was five days. While five days may be enough time to produce an app in a discipline one is familiar with, it is a borderline insane endeavour for one that knows nothing about the language or gaming platforms, to speak of. 
+
+      The learning curve was an obvious challenge, but moreso due to having no prior knowledge of gaming engines. While I hadn't programmed in C#, prior to this project, I found it to be less of a challenge than navigating Unity, itself. 
+
+      My greatest challenge, should become a learning lesson for all Unity beginners. Thou shalt not watch tutorials from depricated versions of Unity and expect new releases to perform the same. This was a HUGE learning lesson for me, as Unity 5 changed drastically from Unity 4 (both in layout and in scripting syntax structure). I can not begin to tell you how many hours were spent beating my head agaist the wall with this one. 
+      
 
 
 
