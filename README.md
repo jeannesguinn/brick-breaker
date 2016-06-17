@@ -5,7 +5,8 @@ http://gamebucket.io/game/6fe8ee4e-c105-4954-b51f-ae39a00ee583
    
 
 ## Overview and Motivation
-The Space Bar Game is a 2D game created in Unity 5. This game is a basic block breaking game, modeled after the Arkanoid games, popular in the late 1980's. My main motivation in creating this game was to attempt creating a game in a language I had never programmed in, on a platform I had never utilized, creating something I had never attempted to create before (a video game). I wanted to take on the challenge of utilzing all of the skillsets listed.. and I wanted to do this in the 5 day time frame, our class was given for our final project. 
+      The Space Bar Game is a 2D game created in Unity 5. This game is a basic block breaking game, modeled after the Arkanoid games, popular in the late 1980's. My main motivation in creating this game was to attempt creating a game in a language I had never programmed in, on a platform I had never utilized, creating something I had never attempted to create before (a video game). I wanted to take on the challenge of utilizing all of these skillsets. Furthermore, I wanted to complete this challenge, in a 5-day time frame.
+
 
 ## Technologies Used
 
@@ -22,7 +23,7 @@ The Space Bar Game is a 2D game created in Unity 5. This game is a basic block b
 
 ### C# -
 
-    All of my scripting for this game was done in C#, which is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
+    All of the scripting for this game was done in C#, a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
     
 
 ### Gimp - 
@@ -36,11 +37,12 @@ The Space Bar Game is a 2D game created in Unity 5. This game is a basic block b
 
 ## Challenges
 
-      One of the major challenges of this project was our time constraint. The timeline for this project from start to finish was five days. While five days may be enough time to produce an app in a discipline one is familiar with, it is a borderline insane endeavour for one that knows nothing about the language or gaming platforms, to speak of. 
+      One of the major challenges of this project was our time constraint. The timeline for this project from start to finish was five days. While five days may be enough time to produce an app in a discipline one is familiar with, it is a borderline insane endeavor for one that knows nothing about the language or gaming platforms, to speak of. 
 
-      The learning curve was an obvious challenge, but moreso due to having no prior knowledge of gaming engines. While I hadn't programmed in C#, prior to this project, I found it to be less of a challenge than navigating Unity, itself. 
+      The learning curve was an obvious challenge, but more so due to having no prior knowledge of gaming engines. While I hadn't programmed in C#, prior to this project, I found it to be less of a challenge than navigating Unity, itself. 
 
-      My greatest challenge, should become a learning lesson for all Unity beginners. Thou shalt not watch tutorials from depricated versions of Unity and expect new releases to perform the same. This was a HUGE learning lesson for me, as Unity 5 changed drastically from Unity 4 (both in layout and in scripting syntax structure). I can not begin to tell you how many hours were spent beating my head agaist the wall with this one. 
+      My greatest challenge, should become a learning lesson for all Unity beginners. Thou shalt not watch tutorials from deprecated versions of Unity and expect new releases to perform the same. This was a HUGE learning lesson for me, as Unity 5 changed drastically from Unity 4 (both in layout and in scripting syntax structure). I can not begin to tell you how many hours were spent beating my head against the wall with this one.
+
       
 
 
